@@ -56,3 +56,5 @@ $(document).ready(function () {
 });
 });
 
+if($('.owl-carousel'))
+
